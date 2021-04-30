@@ -1,0 +1,37 @@
+[
+  {
+    "project_name": "Eccentric Touch",
+    "project_github_url": "https://www.github.com/DesignSystemsOSS/eccentrictouch",
+    "project_author": "The DesignSystems",
+    "project_description": "Suffering from Frontend crises? Here's something that might interest you. Eccentric Touch is a small CSS Library to solve all your frontend issues :)",
+    "project_tech_stack": "CSS/SCSS"
+  },
+  {
+    "project_name": "Eccentric Touch Docs",
+    "project_github_url": "https://www.github.com/DesignSystemsOSS/eccentrictouch.docs",
+    "project_author": "The DesignSystems",
+    "project_description": "Documentation for Eccentric Touch",
+    "project_tech_stack": "MD, HTML"
+  },
+  {
+    "project_name": "The DesignSystems - Community Website",
+    "project_github_url": "https://www.github.com/DesignSystemsOSS/eccentrictouch",
+    "project_author": "The DesignSystems",
+    "project_description": "Website of The DesignSystems",
+    "project_tech_stack": "ReactJS, CSS/SCSS"
+  },
+  {
+    "project_name": "Eccentric Touch Docs",
+    "project_github_url": "https://www.github.com/DesignSystemsOSS/eccentrictouch",
+    "project_author": "The DesignSystems",
+    "project_description": "Suffering from Frontend crises? Here's something that might interest you. Eccentric Touch is a small CSS Library to solve all your frontend issues :)",
+    "project_tech_stack": "CSS/SCSS"
+  },
+  {
+    "project_name": "Eccentric Touch Docs",
+    "project_github_url": "https://www.github.com/DesignSystemsOSS/eccentrictouch",
+    "project_author": "The DesignSystems",
+    "project_description": "Suffering from Frontend crises? Here's something that might interest you. Eccentric Touch is a small CSS Library to solve all your frontend issues :)",
+    "project_tech_stack": "CSS/SCSS"
+  }
+]
